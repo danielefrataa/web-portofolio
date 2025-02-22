@@ -10,7 +10,7 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/danielefrataa/web-portofolio.git
-cd portfolio-next
+cd web-portofolio
 ```
 ## 2. Install Dependencies
 ```bash
